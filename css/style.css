@@ -1,0 +1,12 @@
+.col-6 {
+  color:blue;
+  width: 50%;
+}
+.lift{
+  border: 1px solid black;
+  width:100px;
+}
+table{
+  border: 1px solid black;
+  width: 20px; height:30px;
+}
